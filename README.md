@@ -1,15 +1,9 @@
-# Reve Plate React Version
+# Reve Plate v3
 
-정식 배포용 React + Vite 프로젝트입니다.
+- 첫 화면: 로고 + 문구 + 바탕화면형 아이콘
+- 공정표: 리스트 + 달력 동시 보기
+- 로고 파일: public/logo.png
 
-## 로컬 실행
-1. 터미널 열기
-2. 프로젝트 폴더로 이동
-3. npm install
-4. npm run dev
-
-## Netlify 배포
-- GitHub에 이 폴더 전체를 업로드
-- Netlify에서 Import an existing project
+Netlify 설정
 - Build command: npm run build
 - Publish directory: dist
